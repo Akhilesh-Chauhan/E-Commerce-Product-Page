@@ -1,2 +1,5 @@
 # E-Commerce-Product-Page
-Its is a E-Commerce Product Page created using html css js
+
+It's is a E-Commerce Product Page created using HTML CSS JS.
+
+It a challenge from front-end mentor.
